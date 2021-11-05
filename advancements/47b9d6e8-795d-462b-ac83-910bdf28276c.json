@@ -1,0 +1,93 @@
+{
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2017-11-06 19:51:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2017-11-06 19:55:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2017-11-06 19:51:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2017-11-06 19:55:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-11-06 20:04:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2017-11-06 19:55:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2017-11-06 19:51:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2017-11-06 19:51:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2017-11-06 20:04:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2017-11-06 19:55:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2017-11-06 19:55:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2017-11-06 19:55:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2017-11-06 19:51:44 +0100",
+      "birch_forest": "2017-11-06 19:51:54 +0100",
+      "extreme_hills_with_trees": "2017-11-06 19:48:50 +0100",
+      "plains": "2017-11-06 19:50:48 +0100",
+      "taiga": "2017-11-06 20:11:53 +0100",
+      "birch_forest_hills": "2017-11-06 19:52:55 +0100",
+      "extreme_hills": "2017-11-06 19:49:23 +0100",
+      "river": "2017-11-06 19:50:46 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2017-11-06 19:51:05 +0100"
+    },
+    "done": true
+  }
+}
